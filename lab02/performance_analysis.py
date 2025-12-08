@@ -3,7 +3,7 @@ performance_analysis.py
 Простой замер времени: вставка в начало для list и для LinkedList.
 """
 import timeit
-from linked_list import LinkedList
+from lab02.linked_list import LinkedList
 
 
 SETUP_LIST = "l = []"
